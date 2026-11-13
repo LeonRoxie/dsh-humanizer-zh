@@ -1,0 +1,5 @@
+# Bundle layer for dsh-humanizer-zh, applied when the package is listed in a profile's dsh.profile.bundles.
+# One host-plane row: the skill lands in the global layers, so every agent preset sees it.
+- insert:
+    - id: dsh-humanizer-zh
+      name: dsh-humanizer-zh

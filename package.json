@@ -1,0 +1,40 @@
+{
+  "name": "dsh-humanizer-zh",
+  "version": "1.0.0",
+  "description": "中文文本去 AI 痕迹综合技能 — 整合 5 套开源方案的最佳实践，一键加载 humanizer-zh 技能，降低 AIGC 检测率",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "dsh",
+    "deepseek",
+    "cordis",
+    "humanizer",
+    "aigc",
+    "chinese",
+    "skill",
+    "中文",
+    "去AI味",
+    "降AIGC"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills/**",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh.git"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh/issues"
+  }
+}
