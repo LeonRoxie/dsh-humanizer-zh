@@ -31,10 +31,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh.git"
+    "url": "git+https://github.com/LeonRoxie/dsh-humanizer-zh.git"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh#readme",
+  "homepage": "https://github.com/LeonRoxie/dsh-humanizer-zh#readme",
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh/issues"
+    "url": "https://github.com/LeonRoxie/dsh-humanizer-zh/issues"
   }
 }
