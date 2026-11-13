@@ -22,7 +22,7 @@ dsh plugin add dsh-humanizer-zh
 ### 从 GitHub 安装
 
 ```bash
-dsh plugin add https://github.com/YOUR_GITHUB_USERNAME/dsh-humanizer-zh
+dsh plugin add https://github.com/LeonRoxie/dsh-humanizer-zh
 ```
 
 ## 使用
